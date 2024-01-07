@@ -25,6 +25,6 @@
 </a>
 
 <div align="center">  
-![](https://komarev.com/ghpvc/?username=wushiling50)
+![VIEW COUNT](https://komarev.com/ghpvc/?username=wushiling50&style=flat&color=lightgrey)
 </div>  
 
