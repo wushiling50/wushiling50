@@ -24,7 +24,6 @@
   </p>
 </a>
 
-<div align="center">  
-![VIEW COUNT](https://komarev.com/ghpvc/?username=wushiling50&style=flat&color=lightgrey)
-</div>  
+![](https://hit.yhype.me/github/profile?user_id=120616893)
+
 
