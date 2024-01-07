@@ -19,7 +19,7 @@
 </div>  
 </a>
  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=wushiling50&column=7&theme=onedark"/>
+    <img width="350px" src="https://github-profile-trophy.vercel.app/?username=wushiling50&column=7&theme=onedark"/>
   </p>
 </a>
 
