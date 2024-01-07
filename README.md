@@ -1,16 +1,29 @@
-### Hi there 👋
+# About Me ❄️
+### <div align="left"> 👨‍💻 I'm wushiling50, I am a college student majoring in Software engineering in Fuzhou University.</div> 
+### <div align="left"> 🌱 I am learning knowledge of golang and trying to be a good gopher. </div>
+### <div align="left"> ☄️ The goal for the next few years is to find good jobs and realize financial freedom as soon as possible. </div>
 
-<!--
-**wushiling50/wushiling50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# More
+### <div align="left"> ⛵ welcome to my [blog](https://wushiling50.github.io/). </div>
+<a href="https://github.com/wushiling50">
 
-Here are some ideas to get you started:
+<div align="center">
+ <img src="https://i.imgur.com/kdKhgx6.gif" width="340px" align="center">
+</div>  
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Message
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=wushiling50&theme=vue-dark&count_private=true&show_icons=true">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushiling50&theme=vue-dark&layout=compact">
+
+</a>
+ <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=wushiling50&column=7&theme=onedark"/>
+  </p>
+</a>
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="90%" height="320"/>
+</div>  
+
+
