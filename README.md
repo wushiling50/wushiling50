@@ -18,12 +18,6 @@
 <img width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushiling50&theme=vue-dark&layout=compact">
 </div>  
 
-</a>
- <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=wushiling50&column=7&theme=onedark"/>
-  </p>
-</a>
-
-![](https://hit.yhype.me/github/profile?user_id=120616893)
+![Visitor Count](https://profile-counter.glitch.me/wushiling50/count.svg)
 
 
