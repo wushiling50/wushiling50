@@ -14,8 +14,8 @@
 
 # Message
 <div align="center">  
-<img width="350px" height="300px" src="https://github-readme-stats.vercel.app/api?username=wushiling50&theme=vue-dark&count_private=true&show_icons=true">
-<img width="350px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushiling50&theme=vue-dark&layout=compact">
+<img width="350px" height="150" src="https://github-readme-stats.vercel.app/api?username=wushiling50&theme=vue-dark&count_private=true&show_icons=true">
+<img width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushiling50&theme=vue-dark&layout=compact">
 </div>  
 </a>
  <p align="center">
