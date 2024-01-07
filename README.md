@@ -24,8 +24,7 @@
   </p>
 </a>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="90%" height="320"/>
+<div align="center">  
+![](https://komarev.com/ghpvc/?username=wushiling50)
 </div>  
-
 
