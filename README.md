@@ -1,7 +1,7 @@
 # About Me ❄️
 ### <div align="left"> 👨‍💻 I'm wushiling50, I am a college student majoring in Software engineering in Fuzhou University.</div> 
 ### <div align="left"> 🌱 I am learning knowledge of golang and trying to be a good gopher. </div>
-### <div align="left"> ☄️ The goal for the next few years is to find good jobs and realize financial freedom as soon as possible. </div>
+### <div align="left"> ☄️ The goal of life is to be able to enjoy a free life. </div>
 
 # More
 ### <div align="left"> ⛵ welcome to my [blog](https://wushiling50.github.io/). </div>
