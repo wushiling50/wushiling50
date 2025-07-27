@@ -24,7 +24,4 @@
   </p>
 </a>
 
-![Visitor Count](https://profile-counter.glitch.me/wushiling50/count.svg)
-
-
 
